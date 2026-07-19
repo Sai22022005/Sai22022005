@@ -1,19 +1,128 @@
-Hi there 👋, I'm Edula Sai Kumar Reddy
+# 👋 Hi, I'm Edula Sai Kumar Reddy
 
-I'm an aspiring Embedded Systems Developer passionate about designing efficient firmware and building real-world embedded applications. I enjoy working with Embedded C, C++, LPC2129 ,STM32,8051, ARM microcontrollers, IoT, and Communication Protocols such as UART, SPI, I2C, and CAN, while continuously expanding my knowledge in Embedded Linux and RTOS. I love solving hardware-software challenges, learning new technologies, and building projects that make a real-world impact.
+## 🚀 About Me
 
-🌱 Currently learning Embedded Linux & RTOS
+I am an Electronics and Communication Engineering (ECE) student passionate about Embedded Systems, Microcontrollers, and IoT technologies. I enjoy designing embedded applications, learning new technologies, and building practical hardware projects.
 
-🔭 Working on Embedded Systems and IoT Projects
+Currently pursuing my B.Tech while continuously improving my programming and embedded development skills. :contentReference[oaicite:0]{index=0}
 
-💻 Skilled in Embedded C, C++, LPC2129,STM32,8051,Protocols
+---
 
-🤝 Open to collaborating on Embedded Systems & Open Source Projects
+## 🎓 Education
 
-🌐 LinkedIn:https://in.linkedin.com/in/edula-sai-kumar-reddy-76a386270
+### B.Tech in Electronics and Communication Engineering
+**Rayalaseema University College of Engineering**
+- 2023 – 2026
+- CGPA/Percentage: **83.5%**
 
-💻 GitHub:https://github.com/Sai22022005
+### Diploma in Electronics and Communication Engineering
+**MBTS Government Polytechnic**
+- 2020 – 2023
+- Percentage: **77.97%**
 
-📧 Email:edulasaikumarreddy@gmain.com
+### SSC
+- Percentage: **99%** :contentReference[oaicite:1]{index=1}
 
-⭐ "Turning ideas into reliable embedded solutions, one project at a time."
+---
+
+## 💻 Technical Skills
+
+### Programming Languages
+- C
+- Embedded C
+
+### Embedded Systems
+- Embedded Systems
+- Digital Electronics
+- 8051 Microcontroller
+- LPC2129 Microcontroller
+
+### Communication Protocols
+- UART
+- SPI
+- I2C
+- CAN
+
+### Operating System
+- Linux (Basics)
+
+### Tools
+- Keil IDE
+- GCC
+- Proteus :contentReference[oaicite:2]{index=2}
+
+---
+
+## 🛠️ Projects
+
+### 🔒 Laser-Based Security Alarm System
+
+Designed and developed a low-cost embedded security system for intrusion detection using:
+
+- Laser Module
+- LDR Sensor
+- Buzzer
+- Microcontroller
+
+### Features
+- Detects interruption of a laser beam.
+- Generates an automatic alarm when intrusion is detected.
+- Uses an LDR sensor for accurate light intensity monitoring.
+- Fast real-time response.
+- Suitable for restricted-area security applications. :contentReference[oaicite:3]{index=3}
+
+---
+
+## 🏭 Training
+
+**Skyquad Electronic & Appliances Pvt. Ltd., Hyderabad**
+
+Completed six months of industrial training focused on:
+
+- Smart Watch Assembly
+- Debugging
+- Display Fixing
+- Hardware Assembly :contentReference[oaicite:4]{index=4}
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Winner - District Level Throw Ball Competition
+- 🥇 Winner - Zonal & Central Zonal Throw Ball Competitions :contentReference[oaicite:5]{index=5}
+
+---
+
+## 🤝 Soft Skills
+
+- Teamwork
+- Time Management
+- Quick Learner
+- Hard Working :contentReference[oaicite:6]{index=6}
+
+---
+
+## 🌱 Currently Learning
+
+- Embedded Linux
+- ARM Microcontrollers
+- IoT Development
+- RTOS
+- Embedded C Programming
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: edulasaikumarreddy@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/edula-sai-kumar-reddy-76a386270 :contentReference[oaicite:7]{index=7}
+
+---
+
+## ⚡ Career Objective
+
+> To work in an innovative and growth-oriented organization where I can contribute effectively while continuously developing my technical and professional skills. :contentReference[oaicite:8]{index=8}
+
+---
+
+⭐ *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
