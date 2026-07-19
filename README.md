@@ -1,67 +1,55 @@
 <!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Edula%20Sai%20Kumar%20Reddy&fontSize=40&fontColor=00FFD1&animation=fadeIn&fontAlignY=40"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Edula Sai Kumar Reddy</h1>
 
 <h3 align="center">
-An Electronics & Communication Engineering Student | Embedded Systems Enthusiast | Future IoT Engineer
+Embedded Systems Enthusiast | Electronics Engineer | C Programmer | IoT Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Embedded+Systems+Developer;Microcontroller+Programmer;C+%7C+Embedded+C+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00E7FF&center=true&vCenter=true&width=850&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+Developer;Microcontroller+Programmer;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284103-9c6db1b6-18ef-4f4c-a5b8-f7c5e1db5d09.gif">
 
 🎓 B.Tech in Electronics & Communication Engineering
 
-💻 Passionate about Embedded Systems and IoT
+🔭 Passionate about Embedded Systems and Hardware Design
 
 🌱 Currently Learning
-- ARM Microcontrollers
-- Embedded Linux
-- RTOS
-- IoT Development
 
-🔭 Interested in
-- Embedded Programming
+- Embedded Linux
+- ARM Microcontrollers
+- RTOS
+- IoT
+- PCB Design
+
+💡 Interested In
+
+- Embedded Firmware
 - Robotics
 - Electronics
 - Automation
-
-⚡ Fun Fact
-
-> "Every expert was once a beginner."
+- Industrial IoT
 
 ---
 
-# 🌐 Connect With Me
+# 🔌 Technical Skills
 
-<p align="left">
-<a href="https://www.linkedin.com/in/edula-sai-kumar-reddy-76a386270">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:edulasaikumarreddy@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
-
----
-
-# 💻 Languages
+### Programming
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=c,linux,git,github,vscode"/>
-
 </p>
 
----
-
-# 🔧 Embedded Technologies
+### Embedded Systems
 
 <p>
 
@@ -69,29 +57,33 @@ An Electronics & Communication Engineering Student | Embedded Systems Enthusiast
 
 <img src="https://img.shields.io/badge/LPC2129-ARM-orange?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/UART-Communication-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/I2C-Protocol-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SPI-Protocol-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CAN-Protocol-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded%20C-success?style=for-the-badge"/>
 
 </p>
 
----
-
-# 🛠 Tools
+### Communication Protocols
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github"/>
+<img src="https://img.shields.io/badge/UART-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Keil_IDE-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SPI-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/I2C-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CAN-orange?style=for-the-badge"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Keil%20IDE-00599C?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Proteus-008080?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/GCC-Compiler-important?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GCC-Compiler-blueviolet?style=for-the-badge"/>
 
 </p>
 
@@ -101,32 +93,32 @@ An Electronics & Communication Engineering Student | Embedded Systems Enthusiast
 
 ## 🔐 Laser-Based Security Alarm System
 
-✨ Features
+An embedded security system built using:
 
-- 🚨 Intruder Detection
-- 🔴 Laser Beam Monitoring
-- 💡 LDR Sensor Integration
-- 🔔 Automatic Buzzer Alert
-- ⚡ Real-Time Response
-- 💰 Low-Cost Embedded Solution
+- 🔴 Laser Module
+- 💡 LDR Sensor
+- 🔔 Buzzer
+- 🎛️ Microcontroller
+
+### Features
+
+✅ Intruder Detection
+
+✅ Automatic Alarm
+
+✅ Real-Time Response
+
+✅ Low-Cost Security Solution
 
 ---
 
-# 🏆 Achievements
-
-🥇 District Level Throw Ball Winner
-
-🏅 Zonal & Central Zonal Champion
-
----
-
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -135,63 +127,53 @@ An Electronics & Communication Engineering Student | Embedded Systems Enthusiast
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=10"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<a href="https://www.linkedin.com/in/edula-sai-kumar-reddy-76a386270">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:edulasaikumarreddy@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-# 💡 Quote
+# 💬 Quote
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+> **"The best way to predict the future is to build it."**
 
 </p>
-
----
-
-# 👀 Profile Views
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-# ☕ Support Me
-
-⭐ If you like my work, consider starring my repositories!
 
 ---
 
 <p align="center">
-
-### Thanks for visiting ❤️
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 </p>
