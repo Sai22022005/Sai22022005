@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi there 👋, I'm Edula Sai Kumar Reddy
 
-<!--
-**Sai22022005/Sai22022005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Embedded Systems Developer passionate about designing efficient firmware and building real-world embedded applications. I enjoy working with Embedded C, C++, LPC2129 ,STM32,8051, ARM microcontrollers, IoT, and Communication Protocols such as UART, SPI, I2C, and CAN, while continuously expanding my knowledge in Embedded Linux and RTOS. I love solving hardware-software challenges, learning new technologies, and building projects that make a real-world impact.
+🌱 Currently learning Embedded Linux & RTOS
 
-Here are some ideas to get you started:
+🔭 Working on Embedded Systems and IoT Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skilled in Embedded C, C++, LPC2129,STM32,8051,Protocols
+
+🤝 Open to collaborating on Embedded Systems & Open Source Projects
+
+🌐 LinkedIn:https://in.linkedin.com/in/edula-sai-kumar-reddy-76a386270
+
+💻 GitHub:https://github.com/Sai22022005
+
+📧 Email:edulasaikumarreddy@gmain.com
+
+⭐ "Turning ideas into reliable embedded solutions, one project at a time."
