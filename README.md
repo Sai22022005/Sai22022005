@@ -1,147 +1,109 @@
-<!-- ====================== HEADER ====================== -->
+<div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Edula%20Sai%20Kumar%20Reddy&fontSize=45&fontColor=00FFD1&animation=fadeIn&fontAlignY=40"/>
-</p>
+# Hi 👋, I'm Edula Sai Kumar Reddy
 
-<h2 align="center">
-⚡ Electronics & Communication Engineer ⚡
-</h2>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=27&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Developer;Firmware+Engineer;C+%7C+Embedded+C+Programmer;Microcontroller+Enthusiast;Learning+Embedded+Linux+%26+IoT"/>
-</p>
-
----
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
-<img align="right" width="350" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"/>
-
-🎓 B.Tech in Electronics & Communication Engineering
-
-🔌 Passionate about Embedded Systems & Electronics
-
-💻 Interested in Firmware Development
-
-🌱 Currently Learning
-
-- Embedded Linux
-- ARM Microcontrollers
-- RTOS
-- IoT
-- PCB Design
-
-⚡ Goal
-
-> Build innovative embedded systems that solve real-world problems.
-
----
-
-# 💻 Tech Stack
-
-### Languages
+### Embedded Systems Enthusiast | Electronics & Communication Engineer | Firmware Developer
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,linux,git,github,vscode"/>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME?tab=followers">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social"/>
+  </a>
 </p>
 
-### Embedded Technologies
-
-<p>
-
-<img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/8051_MCU-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LPC2129-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/UART-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SPI-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/I2C-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CAN-orange?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-# 🚀 Featured Project
+## 👨‍💻 About Me
 
-## 🔐 Laser-Based Security Alarm System
+I am an Electronics and Communication Engineering student with a strong interest in **Embedded Systems**, **Firmware Development**, and **IoT**. I enjoy building practical embedded solutions, learning new technologies, and solving real-world engineering problems.
 
-> An embedded security solution for intrusion detection.
-
-### Features
-
-🔴 Laser Beam Monitoring
-
-💡 LDR Sensor Detection
-
-🔔 Automatic Buzzer Alert
-
-⚡ Fast Response
-
-💰 Low-Cost Design
+- 🎓 B.Tech in Electronics & Communication Engineering
+- 🌱 Currently learning **Embedded Linux**, **ARM Microcontrollers**, and **RTOS**
+- 💻 Interested in **Embedded Software**, **IoT**, and **Automation**
+- 🚀 Passionate about designing efficient embedded applications
+- 📍 India
 
 ---
 
-# 🏆 Achievements
+## 🛠 Technical Skills
 
-🥇 District Level Throw Ball Champion
+### Programming Languages
+- C
+- Embedded C
 
-🏅 Zonal & Central Zonal Winner
+### Embedded Systems
+- 8051 Microcontroller
+- LPC2129 Microcontroller
+- Embedded Systems
+- Digital Electronics
+
+### Communication Protocols
+- UART
+- SPI
+- I²C
+- CAN
+
+### Tools
+- Keil IDE
+- Proteus
+- GCC
+- Git
+- GitHub
+
+### Operating System
+- Linux (Basics)
 
 ---
 
-# 📊 GitHub Statistics
+## 🚀 Featured Project
+
+### 🔒 Laser-Based Security Alarm System
+
+Designed and developed a low-cost embedded security system capable of detecting intrusions using a laser beam and LDR sensor.
+
+**Key Features**
+- Laser-based intrusion detection
+- Automatic buzzer alert
+- Real-time monitoring
+- Embedded controller implementation
+- Low-cost hardware solution
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🎯 Career Objective
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
+To build a successful career in Embedded Systems and Firmware Development by contributing to innovative projects while continuously improving my technical and professional skills.
 
 ---
 
-# 🏅 GitHub Trophies
+## 📫 Connect with Me
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4"/>
-
-</p>
-
----
-
-# 🌐 Connect with Me
-
-<p align="center">
-
+<p align="left">
 <a href="https://www.linkedin.com/in/edula-sai-kumar-reddy-76a386270">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -149,21 +111,20 @@
 <a href="mailto:edulasaikumarreddy@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-# 💭 Favorite Quote
+## 💡 Quote
 
-<p align="center">
-
-> **"Innovation distinguishes between a leader and a follower."** — Steve Jobs
-
-</p>
+> **"The best way to learn engineering is by building real-world projects."**
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2C5364,50:203A43,100:0F2027"/>
-</p>
+<div align="center">
+
+### Thank you for visiting my profile!
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
